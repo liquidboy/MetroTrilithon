@@ -125,10 +125,6 @@
       <Project>{0af0b9ff-d981-4d0f-a41f-c3ab6fe2f16d}</Project>
       <Name>MetroRadiance</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MetroTrilithon\MetroTrilithon.csproj">
-      <Project>{df381709-9f44-44ed-a7d6-ecdf157e620d}</Project>
-      <Name>MetroTrilithon</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RetroTrilithon.Desktop\RetroTrilithon.Desktop.csproj" Condition="'$(Configuration)' == 'Release RETRO'">
       <Project>{75a62817-2f64-4179-939c-b28914bdc566}</Project>
       <Name>RetroTrilithon.Desktop</Name>

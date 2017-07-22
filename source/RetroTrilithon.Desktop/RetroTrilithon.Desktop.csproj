@@ -148,10 +148,6 @@
       <Project>{0af0b9ff-d981-4d0f-a41f-c3ab6fe2f16d}</Project>
       <Name>MetroRadiance</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MetroTrilithon\MetroTrilithon.csproj">
-      <Project>{df381709-9f44-44ed-a7d6-ecdf157e620d}</Project>
-      <Name>MetroTrilithon</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
