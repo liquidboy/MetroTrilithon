@@ -1,3 +1,5 @@
+.NETStandard 2.0 version by Jose Fajardo
+
 ## MetroTrilithon
 
 [![Build status](https://img.shields.io/appveyor/ci/Grabacr07/MetroTrilithon/master.svg?style=flat-square)](https://ci.appveyor.com/project/Grabacr07/MetroTrilithon)
