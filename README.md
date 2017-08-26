@@ -1,4 +1,4 @@
-.NETStandard 2.0 version by Jose Fajardo
+* NETStandard 2.0 version by Jose Fajardo
 
 ## MetroTrilithon
 
